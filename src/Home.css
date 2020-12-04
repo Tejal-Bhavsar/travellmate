@@ -1,0 +1,21 @@
+.active-menu{
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
+ 
+#wander {
+   color:  #2ecc71;
+   font-weight: bold;
+}
+.btn-primary{
+    background-color: #3498db;
+    border-radius: 2.6rem;
+}
+header h2 {
+    font-size: 24px;
+}
+
+.animated {
+    animation: up;
+}
